@@ -1,7 +1,8 @@
+import TodoPage from "./pages/TodoPage";
 function App() {
   return (
     <>
-      <h1>Todo Application</h1>
+      <TodoPage />
     </>
   );
 }
